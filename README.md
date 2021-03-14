@@ -5,7 +5,7 @@
 - 🌱 I love learning!
 - 📫 Haha you will never be able to reach me!
 
-### Super awesome top secret surprises coming soon!
+### Super awesome top secret surprises coming soon! Please follow me for updates!
 
 <!---
 If you are reading this you are special and loved! Have an amazing day! ❤
