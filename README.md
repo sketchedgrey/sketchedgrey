@@ -1,15 +1,18 @@
+
+Yo! I'm just a guy who knows very little, but wants to know a lot. Help the computer.  
+~Jabrils  
+
 ## About myself!
 
 - 💡 Hi, I’m @sketchedgrey!
-- 📚 I’m interested in the developement of various things, such as games and software.
-- 🌱 I love learning!
-- 📫 Haha you will never be able to reach me!
+- 📚 I’m interested in the developement of various things, such as games, software, and operating systems.
+- 🌱 I love learning! My favorite things to learn about are literature and programming.
+- 📫 Haha, you will never be able to reach me! Just kidding, talk to me here on GitHub.
+
+## Current publicized projects:
+- My GitHub profile configuration Readme
 
 ### Super awesome top secret surprises coming soon! Please follow me for updates!
-
-<!---
-If you are reading this you are special and loved! Have an amazing day! ❤
---->
 
 <!---
 sketchedgrey/sketchedgrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
