@@ -14,6 +14,10 @@ Yo! I'm just a guy who knows very little, but wants to know a lot. Help the comp
 
 ### Super awesome top secret surprises coming soon! Please follow me for updates!
 
+### Cryptocurrency donations:
+DOGE: D8ocbVtxNBc7STq6gGgPAgMXEGobXfRoiA  
+BTC: bc1qgesvpypdnq9yps95cufjk04vj4u8s5g6p4sxsz  
+
 <!---
 sketchedgrey/sketchedgrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
