@@ -14,8 +14,7 @@ Yo! I'm just a guy who knows very little, but wants to know a lot. Help the comp
 - My GitHub profile configuration Readme
   
 ### Cryptocurrency donations:
-DOGE: D8ocbVtxNBc7STq6gGgPAgMXEGobXfRoiA  
-BTC: bc1qgesvpypdnq9yps95cufjk04vj4u8s5g6p4sxsz
+BTC: bc1qtcdcscm0gqkm0x844t3vaq77uf3fwfw0fq0f34
   
 ### Super awesome top secret surprises coming soon! Please follow me for updates!
 
