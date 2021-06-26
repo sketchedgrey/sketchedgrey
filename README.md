@@ -11,8 +11,8 @@
 - 📫 No current email address publicized!
   
 ## Current publicized projects:
-- My GitHub profile configuration Readme
-- LoFi
+- My GitHub profile configuration ReadMe
+- LoFi network penetration tester
 
 <!---
 ### Cryptocurrency donations:
