@@ -1,6 +1,6 @@
 
 # sketchedgrey
-Yo! I'm just a guy who knows very little, but wants to know a lot. Help the computer.  
+"Yo! I'm just a guy who knows very little, but wants to know a lot. Help the computer."  
 ~Jabrils  
   
 ## About myself!
