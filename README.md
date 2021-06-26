@@ -19,7 +19,7 @@
 BTC: bc1qtcdcscm0gqkm0x844t3vaq77uf3fwfw0fq0f34
 --->
   
-### Super awesome top secret surprises coming soon! Please follow me for updates!
+### Super awesome surprises coming soon! Please follow me for updates!
 
 <!---
 sketchedgrey/sketchedgrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
