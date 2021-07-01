@@ -14,10 +14,8 @@
 - My GitHub profile configuration ReadMe
 - LoFi network penetration tester
 
-<!---
 ### Cryptocurrency donations:
 BTC: bc1qtcdcscm0gqkm0x844t3vaq77uf3fwfw0fq0f34
---->
   
 ### Super awesome surprises coming soon! Please follow me for updates!
 
