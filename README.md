@@ -11,7 +11,7 @@
 - 📫 sketchedgrey@mail.ru
 
 ### Cryptocurrency donations:
-BTC: [[TEMPORARILY REDACTED]]
+BTC: [TEMPORARILY REDACTED]
   
 ### Super awesome surprises coming soon! Please follow me for updates!
 
