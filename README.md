@@ -8,14 +8,10 @@
 - 💡 Hi, I’m @sketchedgrey!
 - 📚 I’m interested in the developement of various things, such as games, software, and operating systems.
 - 🌱 I love learning! My favorite things to learn about are literature and programming.
-- 📫 No current email address publicized!
-  
-## Current publicized projects:
-- My GitHub profile configuration ReadMe
-- LoFi network penetration tester
+- 📫 sketchedgrey@mail.ru
 
 ### Cryptocurrency donations:
-BTC: bc1qtcdcscm0gqkm0x844t3vaq77uf3fwfw0fq0f34
+BTC: [[TEMPORARILY REDACTED]]
   
 ### Super awesome surprises coming soon! Please follow me for updates!
 
